@@ -1,0 +1,17 @@
+{
+  "bridge" : {
+    "name" : "Homebridge",
+    "username" : "CC:22:3D:E3:CE:32",
+    "port" : 51826,
+    "pin" : "031-45-155"
+  },
+  "accessories" : [
+    {
+      "accessory" : "Keylock",
+      "name" : "Door",
+      "description" : "Door lock",
+      "mqtt_broker" : "mqtt://192.168.1.21",
+      "mqtt_channel" : "/keylock/A"
+    }
+  ]
+}
