@@ -1,5 +1,7 @@
 # homebridge-plugin-keylock
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/suculent/homebridge-plugin-keylock.svg)](https://greenkeeper.io/)
+
 This is simple [homebridge](https://github.com/nfarina/homebridge) plugin for ESP8266 with Futaba servo.
 
 ## Prerequisites
